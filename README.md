@@ -38,3 +38,11 @@ Glossary:
   Remote - a git command that can help you managed your set of tracked remote repositories
   
   Repository - is a folder inside a project that is having its changes tracked, these are changes to files, etc
+  
+  References: 
+  
+  https://en.wikipedia.org/wiki/Markdown
+  
+  https://git-scm.com/doc
+  
+  https://docs.github.com/en/free-pro-team@latest/github
