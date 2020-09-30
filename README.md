@@ -1,11 +1,20 @@
 # A03
 Tutorial on how to use GitHub
 
+Navigate to **GitHub.com** and create an account, from there you want to create a **repository** in that account and title the **repository** so that it is revelant to the project you are planning on creating. 
+
+When you have finished intializing the **repository** you can begin to upload your project files inside of it, you would do this by **committing**/uploading your files to the master **branch**. 
+
+Whenever a change is made to one of the files in your repo you **commit** so that the changes update the file tracker.
+
+
+
 
 
 
 
 Glossary:
+
   Branch - a git command that can be used to list branches or create branches
   
   Clone - a git command that creates a local copy of a certain git repository whether it be local or remote
